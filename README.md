@@ -16,16 +16,18 @@ Here are some ideas to get you started:
 -->
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/paula-macedo-santana-dev/)
-[![Twitter](https://img.shields.io/badge/Twitter-Profile-blue)](https://www2.slideshare.net/PaulaSantana12)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:psanrosa13@gmail.com)](mailto:psanrosa13@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.fernando-macedo-dev/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:fernando.macedo.santana@gmail.com)](mailto:fernando.macedo.santana@gmail.com)
 
 
 ## Sobre mim
-  - 
-  - 
-  - Estou fazendo faculdade de Desenvolvimento de Software na Impacta
+  - Estou fazendo faculdade de Desenvolvimento de Software na Impacta 
+  - Aprendendo com a Linguagem Python e estou gostando bastante 
+  - Nas horas vagas estou me dedicando em aprender Java
   - Não sou acima da média
+  - Pessoa que me inspira , minha esposa @psanrosa13
   - Amo surfar
 
 ## Trabalho e expeiências 
+  - Atuei na área Industrial como eletricista de instalações e manutenções por 15 anos. E em dezembro de 2020 houve o término do contrato que estava atuando.         Nesse período que estou desempregado vou focar ainda mais em estudar o material necessário para que eu possa estar me capacitando em migrar para a área de         desenvolvimento.
+
