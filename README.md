@@ -26,8 +26,8 @@ Here are some ideas to get you started:
   - Nas horas vagas estou me dedicando em aprender Java
   - Não sou acima da média
   - Pessoa que me inspira , minha esposa @psanrosa13
-  - Amo surfar
+  - Amo surfar e viajar
 
 ## Trabalho e experiências 
-  - Atuei na área Industrial como eletricista de instalações e manutenções por 15 anos. E em dezembro de 2020 houve o término do contrato que estava atuando.         Nesse período que estou desempregado vou focar ainda mais em estudar o material necessário para que eu possa estar me capacitando em migrar para a área de         desenvolvimento.
+  - Atuo na área Industrial como Eletricista de instalações e manutenções por 15 anos. E desde Agosto de 2020 ingressei na Faculdade e estou estudando o material necessário para que eu possa estar me capacitando e migrar para a área de desenvolvimento.
 
